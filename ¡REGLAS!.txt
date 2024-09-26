@@ -1,0 +1,40 @@
+Reglas del Idioma IILG (Idioma de Iker, Gael y Leonardo)
+
+Este documento detalla las reglas y convenciones del idioma IILG, creado para la comunicación privada entre los amigos Iker, Gael y Leonardo.
+1. Combinaciones de Letras
+
+    Cada combinación de letras representa una palabra o significado específico en el idioma IILG.
+    Las combinaciones deben estar formadas por letras mayúsculas del alfabeto latino.
+
+2. Uso de Números
+
+    Se pueden agregar números al final de las combinaciones para indicar diferentes significados o contextos:
+        0: Indica el significado base de la combinación.
+        1: Indica un significado alternativo o relacionado.
+        2: Indica una pregunta o contexto interrogativo.
+
+Ejemplo:
+
+    AB0: Significado base de la combinación AB.
+    AB1: Significado alternativo relacionado con AB.
+    AB2: Significa "¿[significado de AB]?" (interrogativa).
+
+3. Formato de Combinaciones
+
+    Todas las combinaciones deben escribirse en mayúsculas.
+    Las combinaciones deben ser únicas; no se permiten duplicados en el archivo IILG.csv.
+
+4. Agregar Nuevas Combinaciones
+
+    Las nuevas combinaciones deben ser agregadas usando el script generar_idioma.py.
+    Al ejecutar el script, se generará automáticamente la siguiente combinación, y se pedirá al usuario que ingrese su significado.
+
+5. Colaboración y Edición
+
+    Solo Iker, Gael y Leonardo tienen permiso para editar el archivo IILG.csv y agregar nuevas combinaciones.
+    Se alienta a los usuarios a mantener la organización y claridad en el archivo.
+
+6. Privacidad
+
+    El idioma IILG está diseñado para la comunicación privada entre los creadores.
+    No se debe compartir la lista completa de combinaciones y sus significados con personas ajenas al grupo.
